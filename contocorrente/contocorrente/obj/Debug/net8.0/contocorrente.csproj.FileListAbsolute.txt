@@ -1,0 +1,14 @@
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\bin\Debug\net8.0\contocorrente.exe
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\bin\Debug\net8.0\contocorrente.deps.json
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\bin\Debug\net8.0\contocorrente.runtimeconfig.json
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\bin\Debug\net8.0\contocorrente.dll
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\bin\Debug\net8.0\contocorrente.pdb
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.AssemblyInfoInputs.cache
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.AssemblyInfo.cs
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.csproj.CoreCompileInputs.cache
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.dll
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\refint\contocorrente.dll
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.pdb
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\contocorrente.genruntimeconfig.cache
+C:\Users\DAVIDE\Desktop\contocorrente\contocorrente\obj\Debug\net8.0\ref\contocorrente.dll
